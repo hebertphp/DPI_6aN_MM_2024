@@ -1,0 +1,37 @@
+*{
+    /* margin:30px; */
+    padding: 10px;
+}
+body{
+    background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color:hsl(0, 100%, 50%);
+    
+}
+p{
+    color:blue;
+}
+#tit1{
+    color:green;
+}
+.c1{
+    color:orange;
+  }
+  .b1{
+    background-color:white;
+  }
+  .b2{
+    background-color:black;
+  }
+  .c2{
+    color:purple;
+  }
+  h1, h2{
+    margin:10px;
+   }
+   span:hover{
+    background-color: blueviolet;
+    color:black;
+   }

@@ -1,0 +1,30 @@
+body{
+    background-color: hsl(240, 100%, 80%) /*#RRGGBB */
+}
+/*
+vermelho: red #ff0000 rgb(255,0,0)
+
+
+#000000 - preto
+#888888
+
+#cccccc
+#ffffff - branco
+
+*/
+
+
+h1,h2{
+    color:hsla(240, 100%, 50%, 0.5) ;
+    font-size:2rem;
+}
+#container p{
+    color:green;
+}
+p{
+  background-color: hsl(0, 100%, 20%) /* cor de fundo vermelho escuro */
+}
+p:hover{
+    background-color: hsl(0, 100%, 80%); /* cor de fundo vermelho claro */
+}
+
